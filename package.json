@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "adm-zip": "^0.4.11",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
@@ -15,6 +14,8 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "aws-sdk": "^2.248.1"
+    "adm-zip": "^0.4.11",
+    "aws-sdk": "^2.248.1",
+    "mime-types": "^2.1.18"
   }
 }
