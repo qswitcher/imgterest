@@ -1,0 +1,20 @@
+{
+	"name": "build_lambda",
+	"version": "1.0.0",
+	"description": "",
+	"main": "build_lambda.js",
+	"scripts": {
+		"build": "repack-zip"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"adm-zip": "^0.4.11",
+		"mime-types": "^2.1.18"
+	},
+	"devDependencies": {
+		"aws-sdk": "^2.257.1",
+		"pack-zip": "^0.2.2",
+		"repack-zip": "^0.2.5"
+	}
+}
