@@ -13,9 +13,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "devDependencies": {
-    "adm-zip": "^0.4.11",
-    "aws-sdk": "^2.248.1",
-    "mime-types": "^2.1.18"
-  }
+  "devDependencies": {}
 }
